@@ -1,0 +1,142 @@
+{
+	"identity": {
+		"IDSchemaVersion": {
+			"value": "IDSchemaVersion"
+		},
+		"name": {
+			"value": "fullName"
+		},
+		"gender": {
+			"value": "gender"
+		},
+		"dob": {
+			"value": "dateOfBirth"
+		},
+		"age": {
+			"value": "age"
+		},
+		"introducerRID": {
+			"value": "introducerRID"
+		},
+		"introducerUIN": {
+			"value": "introducerUIN"
+		},
+		"introducerVID": {
+			"value": "introducerVID"
+		},
+		"introducerName": {
+			"value": "introducerName"
+		},
+		"phone": {
+			"value": "phone"
+		},
+		"phoneNumber": {
+			"value": "phone"
+		},
+		"email": {
+			"value": "email"
+		},
+		"emailId": {
+			"value": "email"
+		},
+		"uin": {
+			"value": "UIN"
+		},
+		"vid": {
+			"value": "VID"
+		},
+		"individualBiometrics": {
+			"value": "individualBiometrics"
+		},
+		"introducerBiometrics": {
+			"value": "introducerBiometrics"
+		},
+		"individualAuthBiometrics": {
+			"value": "individualAuthBiometrics"
+		},
+		"officerBiometricFileName": {
+			"value": "officerBiometricFileName"
+		},
+		"supervisorBiometricFileName": {
+			"value": "supervisorBiometricFileName"
+		},
+		"residenceStatus": {
+			"value": "residenceStatus"
+		},
+		"preferredLanguage": {
+			"value": "preferredLang"
+		},
+		"locationHierarchyForProfiling": {
+			"value": "zone,postalCode"
+		},
+		"location1": {
+			"value": "kebele"
+		},
+		"location2": {
+			"value": "woreda"
+		},
+		"location3": {
+			"value": "zone"
+		},
+		"location4": {
+			"value": "region"
+		},
+		"fullAddress": {
+			"value": "region,zone,woreda,kebele"
+		},
+		"bestTwoFingers": {
+			"value": "bestTwoFingers"
+		},
+		"birthdate": {
+			"value": "dateOfBirth"
+		},
+		"picture": {
+			"value": "face"
+		},
+		"phone_number": {
+			"value": "phone"
+		},
+		"address": {
+			"value": "region,zone,woreda,kebele"
+		},
+
+		"individual_id": {
+			"value": "individual_id"
+		},
+		"locality": {
+			"value": "city"
+		},
+		"region": {
+			"value": "region"
+		}
+	},
+	"metaInfo": {
+		"value": "metaInfo"
+	},
+	"audits": {
+		"value": "audits"
+	},
+	"documents": {
+		"poa": {
+			"value": "proofOfAddress"
+		},
+		"poi": {
+			"value": "proofOfIdentity"
+		},
+		"por": {
+			"value": "proofOfRelationship"
+		},
+		"pob": {
+			"value": "proofOfDateOfBirth"
+		},
+		"poe": {
+			"value": "proofOfException"
+		}
+	},
+	"attributeUpdateCountLimit": {
+		"fullName": 2,
+		"gender": 1,
+		"dob": 1,
+		"age": 1
+	}
+}
